@@ -1,0 +1,10 @@
+body{
+    color: white !important;
+    background: #133443 !important;
+}
+
+.rounded{
+    height: 400px;
+    width: 400px;
+    border-radius: 100px;
+}
