@@ -33,6 +33,11 @@ body{
 }
 
 @media only screen and (max-width: 600px) {
+    .rounded{
+        height: 300px;
+        width: 300px;
+        border-radius: 100px;
+    }
     .icon{
         height: 40px;
         margin-left: 5px;
