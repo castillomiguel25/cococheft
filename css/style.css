@@ -8,3 +8,24 @@ body{
     width: 400px;
     border-radius: 100px;
 }
+
+.icon{
+    height: 75px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.contain{
+    text-align: center; /
+}
+
+.gallery{
+    border-radius: 100px;
+    max-width: 600px;
+    background-size: cover;
+    background-position: center; 
+    display: block; /* Esto asegura que la imagen se muestre como un bloque */
+    margin-left: auto; /* Mueve la imagen hacia la izquierda tanto como sea posible */
+    margin-right: auto
+}
